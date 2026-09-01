@@ -1,0 +1,59 @@
+{
+    "products": {
+        "1": {
+            "name": "Giga-Burger 'Calorie Explosion'",
+            "price": 20,
+            "stock": 5,
+            "type": "Food"
+        },
+        "2": {
+            "name": "Spicy Shawarma (The Taste of Risk)",
+            "price": 15,
+            "stock": 8,
+            "type": "Food"
+        },
+        "3": {
+            "name": "Coffee 'Cold Deadline'",
+            "price": 10,
+            "stock": 15,
+            "type": "Drinks"
+        },
+        "4": {
+            "name": "Energy Drink 'DevOps Tears'",
+            "price": 5,
+            "stock": 3,
+            "type": "Drinks"
+        }
+    },
+    "users": {
+        "234": {
+            "name": "wer",
+            "purchases": 0,
+            "address": "Job: Unpaid Intern-Slave"
+        },
+        "435": {
+            "name": "hfg",
+            "purchases": 0,
+            "address": "Job: Unpaid Intern-Slave"
+        },
+        "464777": {
+            "name": "ghjh",
+            "purchases": 0,
+            "address": "Job: Unpaid Intern-Slave"
+        },
+        "2434234": {
+            "name": "QQQ",
+            "purchases": 0,
+            "address": "Job: Unpaid Intern-Slave"
+        },
+        "2435345": {
+            "name": "qwer",
+            "purchases": 0,
+            "address": "Job: Unpaid Intern-Slave"
+        }
+    },
+    "stats": {
+        "total_failed_interrogations": 0
+    },
+    "graveyard": []
+}
